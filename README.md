@@ -2,4 +2,4 @@
 
 My scripts for everything
 
-![swiss-army-knife](_assets/swiss-kinfe.png)
+![swiss-army-knife](_assets/swiss-knife.png)
